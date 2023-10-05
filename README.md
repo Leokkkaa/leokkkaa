@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil Leonardo Correa Lopes 😁
 
 <div>
-   <a href="https://github.com/Leokkkaa">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leokkkaa&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leokkkaa&layout=compact&langs_count=6&theme=merko"/>
+   <a href="https://github.com/leokkkaa">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leokkkaa&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leokkkaa&layout=compact&langs_count=6&theme=merko"/>
 </div>
     
 <div style="display: inline_block"><br>
